@@ -1,0 +1,41 @@
+NAV{
+		height:155px;
+		width:100%;
+		float:right;
+		border:1px solid #000000;
+		background-image:url("header.jpg");
+	}
+	
+NAV ul {
+	margin: 0px auto;
+	padding: 100px;
+	list-style-type: none;
+}
+NAV li {
+	display: inline;
+
+}
+
+NAV li a {
+	float: left;
+	text-align: center;
+	border-right: 3px solid #008000;
+        width: 152px;  
+        font-size: 20px; 
+	padding: 0px 02px;
+	color: #000080;
+	text-decoration: none;
+}
+
+NAV li a:hover {
+	color:#ff0000;
+}
+
+
+		
+
+
+	
+		
+
+		

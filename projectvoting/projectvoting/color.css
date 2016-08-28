@@ -1,0 +1,41 @@
+NAV{
+		height:69px;
+		width:100%;
+		float:right;
+		border:2px solid #800000;
+		background-image:url("stars.jpg");
+	}
+	
+NAV ul {
+	margin: 0px auto;
+	padding: 13px;
+	list-style-type: none;
+}
+NAV li {
+	display: inline;
+
+}
+
+NAV li a {
+	float: left;
+	text-align: center;
+	border-right: 3px solid #008000;
+        width: 152px;  
+        font-size: 20px; 
+	padding: 01px 02px;
+	color:#00ffff;
+	text-decoration: none;
+}
+
+NAV li a:hover {
+	color:#008000;
+
+}
+
+		
+
+
+	
+		
+
+		
